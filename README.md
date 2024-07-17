@@ -22,9 +22,7 @@ datapackage:
     <h1 class="hero-title">Exploring the Benefits of Regular Wheel Alignment for Your Vehicle<br/></h1>
     <p class="hero-description">Maintaining your vehicle&rsquo;s health is essential for ensuring a smooth and safe driving experience. One critical but often overlooked aspect of car maintenance is regular wheel alignment. This straightforward service can significantly impact your vehicle&rsquo;s performance, safety, and longevity. In this blog, we&rsquo;ll delve into the numerous benefits of regular wheel alignment and why it should be a priority in your vehicle maintenance routine.</p>
 
-  
-
-        <h2>1. Enhanced Driving Safety</h2>
+  1. Enhanced Driving Safety
    
   
 
