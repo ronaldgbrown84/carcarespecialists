@@ -28,9 +28,7 @@ datapackage:
 
         <h2>1. Enhanced Driving Safety</h2>
    
-    <div>
-        <div><img src="https://miro.medium.com/v2/resize:fit:700/1*LxyB651TaaxYx_DAG0D9MQ.jpeg" alt="Enhanced Driving Safety" width="700" height="420"></div>
-    </div>
+    <img src="https://miro.medium.com/v2/resize:fit:700/1*LxyB651TaaxYx_DAG0D9MQ.jpeg" alt="Enhanced Driving Safety" width="700" height="420">
 
 <p>Proper wheel alignment ensures that your vehicle handles correctly, which is crucial for your safety. Misaligned wheels can cause your car to pull to one side, making it challenging to steer, especially in emergency situations. Regular alignment checks ensure that your wheels are parallel and that your tires meet the road at the correct angle, providing better control and stability.</p>
 
