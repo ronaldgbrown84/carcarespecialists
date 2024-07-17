@@ -32,7 +32,6 @@ datapackage:
 
 <h2>2. Improved Fuel Efficiency</h2>
 
-
 <p>Did you know that misaligned wheels can reduce your vehicle&rsquo;s fuel efficiency? When wheels are out of alignment, your engine has to work harder to move the car forward, which increases fuel consumption. By keeping your wheels properly aligned, you can reduce rolling resistance and improve your car&rsquo;s fuel efficiency, saving you money at the pump.</p>
 
 <h2>3. Extended Tire Lifespan</h2>
